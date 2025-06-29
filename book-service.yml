@@ -1,0 +1,19 @@
+server:
+  port: 8082
+
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres-db:5432/bookdb
+    username: postgres
+    password: postgres
+  data:
+    redis:
+      host: redis
+      port: 6379
+    mongodb:
+      uri: mongodb://mongoadmin:secret@mongodb:27017/book-logs-db?authSource=admin
+      database: book-logs-db
+  application:
+    name: book-service
+  cache:
+    type: redis
