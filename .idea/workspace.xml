@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f1f5683-2f68-4b91-96cb-12a2453007ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/eurekaserver.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8f1f5683-2f68-4b91-96cb-12a2453007ab" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +52,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/eurekaserver" />
       <recent name="$PROJECT_DIR$/book-service" />
       <recent name="$PROJECT_DIR$/user-service" />
     </key>
@@ -76,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751206646478</updated>
       <workItem from="1751206647580" duration="3126000" />
-      <workItem from="1751535318149" duration="796000" />
+      <workItem from="1751535318149" duration="1218000" />
     </task>
     <task id="LOCAL-00001" summary="initialize">
       <option name="closed" value="true" />
@@ -118,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751210110202</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="eureka server configuration added">
+      <option name="closed" value="true" />
+      <created>1751536789187</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751536789187</updated>
+    </task>
+    <task id="LOCAL-00007" summary="eureka server configuration added">
+      <option name="closed" value="true" />
+      <created>1751536830195</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751536830195</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +142,7 @@
     <MESSAGE value="initialize" />
     <MESSAGE value="docker" />
     <MESSAGE value="docker profile added" />
-    <option name="LAST_COMMIT_MESSAGE" value="docker profile added" />
+    <MESSAGE value="eureka server configuration added" />
+    <option name="LAST_COMMIT_MESSAGE" value="eureka server configuration added" />
   </component>
 </project>
